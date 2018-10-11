@@ -1,0 +1,179 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Oct  8 22:27:41 2018
+
+@author: DELL
+"""
+
+def creacion():
+	archivo= open('Texto.txt','w')
+	archivo.close()
+
+def escribir():
+	archivo = open("Texto.txt","a")
+	archivo.write("Nombre:Chonis y Pollo \n")
+	archivo.write("Edad:10 \n")
+	archivo.close()
+
+escribir()
+
+x = 1
+
+while x != 10:
+	escribir()
+	x = x + 1
+a = 89
+for x in range (1,10):
+	escribir()
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
+Nombre:Chonis y Pollo 
+Edad:10 
